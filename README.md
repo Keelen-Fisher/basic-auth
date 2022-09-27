@@ -18,6 +18,8 @@
 
 - [Github repo:](https://github.com/Keelen-Fisher/basic-auth)
 
+<!-- - [Deployed Link:]() -->
+
 - [PR From Github:](https://github.com/Keelen-Fisher/basic-auth/pull/1)
 
 #### UML

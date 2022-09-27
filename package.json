@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "NODE_ENV=production node app.js",
     "watch": "nodemon app.js",
-    "db:config": "sequelize init:config",
+    "db:config": "sequelize db:config",
     "db:create": "sequelize db:create",
     "test-watch": "NODE_ENV=test jest --watchAll",
+    "lint": "eslint **/*.js",
     "test": "NODE_ENV=test jest"
   },
   "jest": {
@@ -30,5 +31,14 @@
     "sequelize-cli": "^6.4.1",
     "sqlite3": "^5.1.1",
     "supertest": "^6.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keelen-Fisher/basic-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Keelen-Fisher/basic-auth/issues"
+  },
+  "homepage": "https://github.com/Keelen-Fisher/basic-auth#readme"
 }

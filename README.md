@@ -18,8 +18,6 @@
 
 - [Github repo:](https://github.com/Keelen-Fisher/basic-auth)
 
-- [Deployed Site:](https://keelen-api-server-prod.herokuapp.com/)
-
 - [PR From Github:](https://github.com/Keelen-Fisher/basic-auth/pull/1)
 
 #### UML

@@ -26,4 +26,4 @@
 
 Created with [miro](https://miro.com/app/board/uXjVPVbmw2E=/)
 
-- UML for lab 04: ![UML](UML%20Rough%20Draft%20for%20Lab%2006.png)
+- UML for lab 06: ![UML](UML%20Rough%20Draft%20for%20Lab%2006.png)
